@@ -30,14 +30,14 @@ Deployment link- https://rohit753-react-redux-scheduler.netlify.app/
 <br/>
 <strong>2.Edit Task:</strong>
 <br/>
-<img src="(https://i.ibb.co/6nsstym/Screenshot-528.png">
+<img src="https://i.ibb.co/6nsstym/Screenshot-528.png">
 <!-- [Screenshot (125)](https://i.ibb.co/6nsstym/Screenshot-528.png) -->
 <br/>
 <!-- ![Screenshot (125)](https://ibb.co/68KQ8Zq) -->
 <br/>
 <strong>2.Delete task:</strong>
 <br/>
-<img src="(https://i.ibb.co/GcD4rnC/Screenshot-529.png">
+<img src="https://i.ibb.co/GcD4rnC/Screenshot-529.png">
 <!-- [Screenshot (125)](https://i.ibb.co/GcD4rnC/Screenshot-529.png) -->
 <br/>
 <br/>
