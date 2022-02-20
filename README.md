@@ -21,7 +21,7 @@ Deployment link- https://rohit753-react-redux-scheduler.netlify.app/
 <br/>
 <strong>2.Add task:</strong>
 <br/>
-![Screenshot (125)](https://ibb.co/68KQ8Zq)
+![Screenshot (125)](https://i.ibb.co/BGhkGPY/Screenshot-526.png)
 <br/>
 ![Screenshot (125)](https://i.ibb.co/xjPfs6X/Screenshot-527.png)
 <br/>
