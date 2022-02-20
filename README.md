@@ -16,7 +16,7 @@ Deployment link- https://rohit753-react-redux-scheduler.netlify.app/
 <br/>
 <br/>
 ![Screenshot (125)](https://i.ibb.co/rmnzsbm/Screenshot-525.png)
-<!-- In Home page there is a Navbar Using that we can navigate to Men's Page, Women's page & Kid's page. If we move to Men's page we can see the Men's page. -->
+
 <br/>
 <br/>
 <strong>2.Add task:</strong>
