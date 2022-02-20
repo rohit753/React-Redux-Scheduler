@@ -15,24 +15,24 @@ Deployment link- https://rohit753-react-redux-scheduler.netlify.app/
 <strong>1.Home Page:</strong>
 <br/>
 <br/>
-![Screenshot (125)](https://i.ibb.co/rmnzsbm/Screenshot-525.png)
+[Screenshot (125)](https://i.ibb.co/rmnzsbm/Screenshot-525.png)
 
 <br/>
 <br/>
 <strong>2.Add task:</strong>
 <br/>
-![Screenshot (125)](https://i.ibb.co/BGhkGPY/Screenshot-526.png)
+[Screenshot (125)](https://i.ibb.co/BGhkGPY/Screenshot-526.png)
 <br/>
-![Screenshot (125)](https://i.ibb.co/xjPfs6X/Screenshot-527.png)
+[Screenshot (125)](https://i.ibb.co/xjPfs6X/Screenshot-527.png)
 <br/>
 <strong>2.Edit Task:</strong>
 <br/>
-![Screenshot (125)](https://i.ibb.co/6nsstym/Screenshot-528.png)
+[Screenshot (125)](https://i.ibb.co/6nsstym/Screenshot-528.png)
 <br/>
 <!-- ![Screenshot (125)](https://ibb.co/68KQ8Zq) -->
 <br/>
 <strong>2.Delete task:</strong>
 <br/>
-![Screenshot (125)](https://i.ibb.co/GcD4rnC/Screenshot-529.png)
+[Screenshot (125)](https://i.ibb.co/GcD4rnC/Screenshot-529.png)
 <br/>
 <br/>
