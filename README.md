@@ -9,6 +9,8 @@ Deployment link- https://rohit753-react-redux-scheduler.netlify.app/
 1.React js<br/>
 2.Redux <br/>
 3.Bootstrap <br/>
+<br/>
+<br/>
 
 
 <!-- Firstly we will land on Home page on Adidas clone. In Home page we can see the over view of websites and the trending products.<br/> -->
