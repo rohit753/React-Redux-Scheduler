@@ -36,7 +36,7 @@ const TaskReducer = (state = initialState, action) => {
       );
       return state;
     default: {
-      if (c > 0) toast.warning("Somthing went wrong last states restored");
+      if (c > 0) toast.warning("Something went wrong last states restored");
       c++;
       return state;
     }
